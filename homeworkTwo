@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Registration</title>
+</head>
+
+<body>
+    <ul>
+        <li><a href="login.html">Login</a></li>
+        <li><a href="#">Register</a></li>
+    </ul>
+    <p>Enter your email and password to register.</p>
+    <br>
+    <form action="https://fom.in.ua/echo">
+        <input type="text" name="username" placeholder="Username" required minlength="3">
+        <br>
+        <br>
+        <input type="email" name="email" placeholder="Enter your email address" required>
+        <br>
+        <br>
+        <input type="password" name="password" placeholder="Password" required minlength="8">
+        <br>
+        <br>
+        <input type="password" name="confirm-password" placeholder="Confirm Password" required minlength="8">
+        <br>
+        <br>
+        <button type="submit">Register</button>
+    </form>
+    <br>
+    <p>Or register with</p>
+    <ul>
+        <li><a href="https://mail.google.com/" target="_blank">Continue with Google</a></li>
+        <li><a href="https://pl-pl.facebook.com/" target="_blank">Continue with Facebook</a></li>
+    </ul>
+</body>
+
+</html>
