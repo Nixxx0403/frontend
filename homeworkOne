@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Опис">
+    <meta name="keywords" content="порше, автомобілі, покупка, ділер">
+    <title>Porsche Store</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="experience.html" target="_blank">Враження та досвід</a>
+            <a href="dealers.html" target="_blank">Пошук дилера</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Porsche</h1>
+        <img src="https://porsche.ua/storage/local/banners/imageDesktopWebp/MA22T3BOX0002_KV_low.webp" width="1200"
+            height="630" alt="Cars Porsche">
+        <h2>Модельний ряд</h2>
+        <!-- 911 -->
+        <h3>911</h3>
+        <img src="https://porsche.ua/storage/local/category/image-for-model-range/model_range_911-1.webp"
+            alt="Porsche 911">
+        <p>Зустріч ікон стилю: легендарний силует 911 у поєднанні з лаконічним характером хронографа I. Ювілейна модель,
+            випущена обмеженим тиражем у 750 примірників, поєднує в собі непідвладний час дизайн спортивного автомобіля
+            з характерними елементами культового годинника і тим самим продовжує історію успіху серії.</p>
+        <ul>
+            <li>Зниження маси.</li>
+            <li>Спортивні сидіння Plus.</li>
+            <li>Спортивна підвіска PASM.</li>
+            <li>20/21-дюймові диски Carrera S.</li>
+        </ul>
+        <!-- Tycan -->
+        <h3>Tycan</h3>
+        <img src="https://porsche.ua/storage/local/category/image-for-model-range/model-taycan1.webp"
+            alt="Porshe Tycan">
+        <p>Захоплюючі відчуття від сидіння в приголомшливому спортивному електромобілі: з новим Taycan енергія електрики
+            електризує ще сильніше. Продуктивність вражає ще більше. А винятковість тепер ще більш виразна.</p>
+        <ul>
+            <li>Динаміка руху.</li>
+            <li>Передні фари.</li>
+            <li>Дизайн.</li>
+            <li>Porsche Driver Experience.</li>
+        </ul>
+        <!-- Panamera -->
+        <h3>Panamera</h3>
+        <img src="https://porsche.ua/storage/local/category/image-for-model-range/porsche-small.webp"
+            alt="Porsche Panamera">
+        <p>Panamera створена для тих, хто вільний і готовий слідувати своїм інстинктам. Хто виражає себе так, як
+            відчуває. Хто приймає рішення, ґрунтуючись на власних бажаннях, а не на тому, що думають інші. Саме для
+            таких людей ми й спроєктували цей спортивний автомобіль.</p>
+        <ul>
+            <li>Матричні світлодіодні передні фари.</li>
+            <li>E-Hybrid</li>
+            <li>Комфорт у задній частині салону.</li>
+            <li>Інформаційно-розважальна система.</li>
+        </ul>
+        <!-- Macan -->
+        <h3>Macan</h3>
+        <img src="https://porsche.ua/storage/local/category/image-for-model-range/macan-menu.webp" alt="Porsche Macan">
+        <p>5 дверей, 5 місць та унікальний, неповторний та нестримний характер. У своєму новому поколінні Macan
+            залишається спортивним автомобілем у сегменті компактних SUV. З першого погляду гени Porsche видає спадна
+            лінія даху: так звана лінія Flyline наділяє Macan типовим для спорткара силуетом.</p>
+        <ul>
+            <li>Нові двигуни: ще більше динаміки та ефективності.</li>
+            <li>Нове покоління рульових коліс: багатофункціональне спортивне кермо та спортивне кермо GT зручно лежать у
+                руках і оснащені пелюстками для ручного перемикання передач.</li>
+            <li>Advanced Cockpit із сенсорним екраном: сучасна та водночас типова для Porsche концепція управління.</li>
+            <li>Типові для Macan бічні накладки нового дизайну.</li>
+        </ul>
+        <!-- Cayenne -->
+        <h3>Cayenne</h3>
+        <img src="https://porsche.ua/storage/local/category/image-for-model-range/Cayenne1.webp" alt="Porsche Cayenne">
+        <p>Спільні пригоди стають дійсно найяскравішими моментами життя. Ідеальна відправна точка: Porsche Cayenne
+            Coupé. Дизайн викликає асоціації з культовим силуетом 911, підкреслюючи вражаючий спортивний вигляд моделей
+            купе.
+            Втілюючи в собі типовий дизайн Porsche, Cayenne Coupé підходить як для поїздок в офіс, так і для пересування
+            бездоріжжям чи гоночним треком – задоволення від поїздки гарантоване за будь-яких умов.</p>
+        <ul>
+            <li>Ефективність на дорогах і бездоріжжі.</li>
+            <li>Матричні світлодіодні передні фари.</li>
+            <li>Porsche Driver Experience. </li>
+            <li>Панорамний скляний дах.</li>
+        </ul>
+        <!-- Всі моделі -->
+        <h3>Всі моделі</h3>
+        <a href="https://porsche.ua/models" target="_blank">
+            <button>Переглянути всі моделі</button>
+        </a>
+    </main>
+    <!-- Футтер -->
+    <footer>
+        <section>
+            <h3>Контактна інформація</h3>
+            <p><a href="tel:+123456789">Телефон: +123456789</a></p>
+            <p><a href="mailto:info@example.com">Email: info@example.com</a></p>
+        </section>
+        <ul>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Twitter</a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>
