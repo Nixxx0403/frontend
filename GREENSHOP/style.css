@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    background-color: white;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto;
+}
+
+.navigation {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    margin: 0 25px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-bottom: 12px; 
+}
+
+.logo {
+    display: inline-block;
+}
+
+.logo img {
+    display: block;
+}
+
+.active {
+    padding-bottom: 25px;
+    border-bottom: 2px solid green;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 35px;
+    left: 1100px;
+    gap: 0px;
+    background-color: rgba(70, 163, 88, 1);
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 6px;
+}
+
+.button img {
+    margin-right: 10px;
+}
+
+.content {
+    background-color: rgba(245, 245, 245, 0.5);
+    padding-left: 43px;
+    padding-bottom: 85px;
+    margin-top: 0px;
+}
+
+.contentText {
+    width: 530px;
+    font-size: 70px;
+    line-height: 70px;
+    color: black;
+}
+
+.contentText span {
+    color: rgba(70, 163, 88, 1);
+}
+
+.content-main {
+    display: inline-block;
+    width: 557px;
+    padding-top: 68px;
+    vertical-align: top;
+    margin-right: 12px; 
+}
+
+.content img {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.link{
+    text-decoration: none;
+    color:rgba(61, 61, 61, 1);
+    font-size: 16px;
+
+}
+
+.lastLink{
+    margin-right: 0;
+    text-decoration: none;
+    color:rgba(61, 61, 61, 1);
+    font-size: 16px;
+}
+
+.welcomeText{
+    font-weight: normal;
+
+
+}
+
+.generalText{
+    color: rgba(114, 114, 114, 1);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.buttonShop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 35px;
+    left: 1100px;
+    gap: 0px;
+    background-color: rgba(70, 163, 88, 1);
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 6px;
+}
+
